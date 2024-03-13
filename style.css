@@ -32,9 +32,14 @@ main {
 }
 
 .mensaje {
+<<<<<<< HEAD
     background: grey;
     background-image: url("img/muneco.png");
     background-position: center;
+=======
+    background: white;
+    background-image: url("img/muneco.png");
+>>>>>>> ebcd5461840f4bb2a67a0ffcd3c8c82abd52a033
     background-repeat: no-repeat;
     border: none;
     border-radius: 24px;
