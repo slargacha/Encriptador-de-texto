@@ -47,7 +47,7 @@ main {
     padding-left: 20px;
     padding-top:  15px;
     position: fixed;
-    height:79%;
+    height: 80%;
     width: 24.7%;
    /* opacity: 0.4;*/
    box-shadow: 10px 10px 30px 15px grey;
@@ -90,7 +90,7 @@ main {
     cursor: pointer;
     height: 55px;
     margin-left: 108px;
-    margin-top: 450px;
+    margin-top: 456px;
     /*position: absolute;*/
     width: 340px;   
     transition: 0.5s all;
