@@ -45,7 +45,7 @@ main {
     position: fixed;
     height:80%;
    /* opacity: 0.4;*/
-   box-shadow: 10px 10px 30px 15px gray;
+   box-shadow: 10px 10px 30px 15px grey;
 }
 
 .mensaje:focus {
