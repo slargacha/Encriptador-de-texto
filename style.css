@@ -43,7 +43,9 @@ main {
     margin-top: 20px;
     padding-left: 20px;
     position: fixed;
-    height:85%;
+    height:80%;
+   /* opacity: 0.4;*/
+   box-shadow: 10px 10px 30px 15px gray;
 }
 
 .mensaje:focus {
@@ -81,14 +83,18 @@ main {
     border-radius: 24px;
     color: #0A3871;
     cursor: pointer;
-    height: 57px;
+    height: 47px;
     margin-left: 108px;
-    margin-top: 402px;
-    position: absolute;
-    width: 336px;   
-  
+    margin-top: 442px;
+    /*position: absolute;*/
+    width: 346px;   
+    transition: 1s all;
+    position: fixed;  
 }
-
+.btn-copiar:hover{
+    background: burlywood;
+    transform: scale(1.2);
+}
 .info {
     color: #495057;
     font-size: 18px;
